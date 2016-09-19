@@ -1,4 +1,4 @@
-# Drinking Games / Ice Breakers
+# Ice Breakers
 Project 3 for GA
 
 
@@ -25,16 +25,18 @@ Project 3 for GA
 - family
 
 ##Themes
-- Vegas
-- Strip Club
 - Birthday
 - Party
-- Funeral???
+- Funeral
+- Company
+- Gatherings
 
 ##Games
+- Vikings
+- Laser Eye
+- Untangle
 - CharDeeMacDenis
 - Beer Pong
-- "Fuck You"
 - King's Cup
 - Don't Drink and Drive
 
