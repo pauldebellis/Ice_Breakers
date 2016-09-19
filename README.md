@@ -39,7 +39,3 @@ Project 3 for GA
 - Beer Pong
 - King's Cup
 - Don't Drink and Drive
-
-##DELETE THIS SHIB
-
-## Gabe Adding something
