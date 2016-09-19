@@ -1,4 +1,4 @@
-# Drinking_Games
+# Drinking Games / Ice Breakers
 Project 3 for GA
 
 
